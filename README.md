@@ -2,7 +2,7 @@
 
 Nice to meet you! I am Vinícius Azevedo, an undergraduate from the Computer Science course at the Federal University of Campina Grande (UFCG)
 
-- 💼 Working at LIFE as a System Test Helper
+- 💼 Working at LIFE as a QA analyst
 - 🌱 Currently learning Spring Boot and JavaScript
 
 <div align="center">
